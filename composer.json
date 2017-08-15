@@ -1,0 +1,13 @@
+{
+  "name": "djangson/AliMns",
+  "type": "library",
+  "description": "Aliyun MNS SDK",
+  "keywords": ["Aliyun MNS", "SMS", "SDK"],
+  "license": "MIT",
+  "require": {
+	"php": ">=5.5.3"
+  },
+  "autoload": {
+	"files": ["autoload.php"]
+  }
+}
