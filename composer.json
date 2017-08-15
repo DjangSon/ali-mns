@@ -1,5 +1,5 @@
 {
-  "name": "djangson/AliMns",
+  "name": "djangson/ali-mns",
   "type": "library",
   "description": "Aliyun MNS SDK",
   "keywords": ["Aliyun MNS", "SMS", "SDK"],
